@@ -1,0 +1,15 @@
+package com.skilldistillery.datastructures.lists;
+
+public class SinglyLinkedListTest {
+
+	public static void main(String[] args) {
+		SinglyLinkedList<String> myList = new SinglyLinkedList<>();
+		System.out.println(myList);
+		
+		
+//		thing = myList.get(13);
+//		System.out.println(thing);
+
+	}
+
+}

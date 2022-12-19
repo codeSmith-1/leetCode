@@ -1,0 +1,17 @@
+package leetCode;
+
+public class ListNode {
+	int val;
+	ListNode next;
+
+	public ListNode(int val, ListNode next) {
+		super();
+		this.val = val;
+		this.next = next;
+	}
+
+	ListNode(int x) {
+		val = x;
+		next = null;
+	}
+}

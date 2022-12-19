@@ -1,0 +1,27 @@
+package middleOfLinkedList876;
+
+public class midOfLinkedList {
+
+	public static void main(String[] args) {
+		midOfLinkedList findMid = new midOfLinkedList();
+		
+	}
+	
+	public ListNode findMid(ListNode head) {
+		int length = 0;
+		ListNode pointer = head;
+		while (pointer != null) {
+			pointer = pointer.next;
+			length++;
+		}
+		pointer = head;
+		int mid = length / 2;
+		while (mid != 0) {
+			pointer = pointer.next;
+			mid--;
+			// pointer will move 6 spaces because 1 != 0, so 1 - 0 gets it to the second mid
+			// node if there were 2
+		}
+		return pointer;
+	}
+}

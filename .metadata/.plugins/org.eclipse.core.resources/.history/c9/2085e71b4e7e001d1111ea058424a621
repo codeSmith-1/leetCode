@@ -1,0 +1,30 @@
+package leetCode;
+
+public class midOfLinkedList {
+	
+	public static void main(String[] args) {
+		
+// Given the head of a singly linked list, return the middle node of the linked list.
+// If there are two middle nodes, return the second middle node.
+	     // size/2 and return that as head
+        // find size/2
+        // while count < size/2 iterate
+        // return that num.next;
+        int length = 0;
+        ListNode pointer = head;
+        while(pointer != null){
+            pointer = pointer.next;
+            length++;
+        }
+        pointer = head;
+        int mid = length/2;
+        while (mid != 0){
+            pointer = pointer.next;
+            mid--;
+            // pointer will move 6 spaces because 1 != 0, so 1 - 0 gets it to the second mid
+            // node if there were 2 
+        }
+        return pointer;
+	}
+
+}

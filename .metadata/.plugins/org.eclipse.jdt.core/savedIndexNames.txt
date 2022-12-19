@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+/Users/tatesmith/Desktop/SD/Java/stsworkspace/.metadata/.plugins/org.eclipse.jdt.core
+4283831159.index
+2393127276.index
+269544682.index
+1865797976.index
+2119239334.index

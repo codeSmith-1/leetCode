@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
+    <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+    <fullyQualifiedTypeName name="com.skilldistillery.datastructures.lists.SinglyLinkedList"/>
+    <fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="com.skilldistillery.datastructures.lists.DoublyLinkedList"/>
+    <fullyQualifiedTypeName name="javax.sound.sampled.LineListener"/>
+    <fullyQualifiedTypeName name="com.skilldistillery.datastructures.lists.SinglyLinkedListNode"/>
+    <fullyQualifiedTypeName name="Palindrome.StringPalindromeChecker"/>
+    <fullyQualifiedTypeName name="Palindrome.LargestPalindrome"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="middleOfLinkedList876.ListNode"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="ListNode.ListNode"/>
+</qualifiedTypeNameHistroy>

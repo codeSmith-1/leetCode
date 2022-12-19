@@ -1,0 +1,9 @@
+package Palindrome;
+
+public class StringPalindromeChecker {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}
