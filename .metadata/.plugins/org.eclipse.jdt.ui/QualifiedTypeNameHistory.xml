@@ -12,7 +12,11 @@
     <fullyQualifiedTypeName name="Palindrome.LargestPalindrome"/>
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
     <fullyQualifiedTypeName name="middleOfLinkedList876.ListNode"/>
-    <fullyQualifiedTypeName name="java.util.HashSet"/>
-    <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="ListNode.ListNode"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="Palindrome.longestPalindrome409"/>
+    <fullyQualifiedTypeName name="Strings.xyzMiddleCodingBat"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="hashMaps.longestSubstring3"/>
 </qualifiedTypeNameHistroy>
